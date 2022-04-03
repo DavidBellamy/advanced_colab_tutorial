@@ -1,5 +1,5 @@
 # Tutorial: Advanced Colab Development Environment
-A quick tutorial for setting up a machine learning development environment consisting of a professional IDE, version control system, and Google Colab code execution. If you find it helpful, slap that star button!
+A quick tutorial for setting up a machine learning development environment consisting of your favorite IDE and Google Colab code execution. If you find it helpful, slap that star button!
 
 ![alt text](https://github.com/DavidBellamy/advanced_colab_tutorial/blob/main/Colab%20tutorial%20diagram.png?raw=true)
 
